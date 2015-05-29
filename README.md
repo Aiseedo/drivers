@@ -1,2 +1,2 @@
 # drivers
-Drivers for the Aiseedo machine intelligence plaform
+Drivers for the Aiseedo machine intelligence platform
